@@ -11,7 +11,7 @@ const Footer = () => {
         <hr />
         <div className="footer">
             <div className="sosial-links">
-            <a href="https://github.com/haimoll98">
+            <a href="https://github.com/molliddev98">
             <img src={Github} alt="" style={{ width: '50px', height: '50px' }}/>
             </a>
             <a href="https://www.instagram.com/kippenkopfc/">
